@@ -1,3 +1,5 @@
-# Testing "--bare" flag on a remote machine
+# This one is created after pulling a supposedly not empty repository
 
-This is created locally we'll see if it will merge :)
+Will it work?
+I don't think so :/ 
+
