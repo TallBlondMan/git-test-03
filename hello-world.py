@@ -4,6 +4,9 @@ import random as rand
 
 print("Printing Hello World!")
 
-print("Adding some numbers", 12 + 12)
+# Adding some numbers together just for fun
+print("Adding some numbers", rand.randrange(1, 50) +  rand.randrange(1, 50)) 
+
+# Adding a new random numbers, this time it's not for fun
 print("Adding new random numbers", rand.randrange(1,20) + rand.randrange(1,20))
 
